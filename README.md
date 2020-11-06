@@ -36,6 +36,7 @@ pie
 其中《哪吒之魔童降世》、《烈火英雄》、《速度与激情》平均票价最少，均为35元。《我和我的祖国》场均人数最多，为35人
 
 由于此处不便展示，2019年在映的296部电影的票房数据均已爬取至 https://github.com/Hyxpillow/SocialComputing_Homework1/blob/master/boxDesc.md
+
 经过统计，票房超过一亿的电影有90部，其中超过十亿的电影有15部。年度票房平均数为21582.4万元，中位数为2393万元
 
 ### 三、豆瓣上的标签信息以及评分数据
@@ -93,7 +94,8 @@ pie
 "其他":   63
 ```
 
-由于此处不便展示，2019年票房排名的前十部电影粉丝分布均已爬取至 https://github.com/Hyxpillow/SocialComputing_Homework1/blob/master/user_location.md
+由于此处不便展示，2019年票房排名的前十部电影粉丝分布均已爬取至  https://github.com/Hyxpillow/SocialComputing_Homework1/blob/master/user_location.md
+
 经过统计，北京，上海，广东总是国内粉丝分布最集中的前三个区域
 
 #### 信息安全
