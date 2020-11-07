@@ -21,7 +21,7 @@
 | 9    | 少年的你              | 2019-10-25 | 155607     | 36       | 16       |
 | 10   | 速度与激情：特别行动  | 2019-08-23 | 143424     | 35       | 15       |
 
-<img src=".\charts\1.png" alt="1" style="zoom: 50%;" />
+<img src="https://github.com/Hyxpillow/SocialComputing_Homework1/tree/master/charts/1.png" alt="1" style="zoom: 50%;" />
 
 其中《哪吒之魔童降世》、《烈火英雄》、《速度与激情》平均票价最少，均为35元。《我和我的祖国》场均人数最多，为35人
 
@@ -33,7 +33,7 @@
 
 参考上述十部电影在豆瓣上获得的评论，每部400条，采用 snownlp 进行观点分析，由于原训练样本与电影评论实际样本存在出入，此处选取正向概率超过97%的作为正面评价，低于90%作为负面评价，此时观察到百分比堆积柱状图与实际情况相符合
 
-![图片1](.\charts\2.png)
+![图片1](https://github.com/Hyxpillow/SocialComputing_Homework1/tree/master/charts/2.png)
 
 每部影片的评论极性比例中，正面均在45%以上，其中《流浪地球》正面评价占有比例最高，接近80%，而《速度与激情：特别行动》得到负面评价占比最高，超过40%
 
@@ -44,7 +44,7 @@
 以《我和我的祖国》的评价用户（前400位）为例，分析评论粉丝分布，此处作图使用 pyecharts
 
 其中北京的人数最多，为98人，上海的人数第二，为34人
-![](.\charts\3.png)
+![](https://github.com/Hyxpillow/SocialComputing_Homework1/tree/master/charts/3.png)
 
 | 地区     | 人数 | 地区         | 人数 | 地区     | 人数 | 地区       | 人数 | 地区           | 人数 |
 | -------- | ---- | ------------ | ---- | -------- | ---- | ---------- | ---- | -------------- | ---- |
@@ -98,7 +98,7 @@ pie
 
 豆瓣用户打星分析
 
-<img src=".\charts\4.png" alt="图片2" style="zoom:80%;" />
+<img src="https://github.com/Hyxpillow/SocialComputing_Homework1/tree/master/charts/4.png" alt="图片2" style="zoom:80%;" />
 
 
 
